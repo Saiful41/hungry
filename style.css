@@ -1,0 +1,25 @@
+
+#foodItm {
+    display: flex;
+    flex-wrap: wrap;
+}
+.food img, .ingredient-info img {
+    width:200px;
+    border-radius: 20px;
+}
+.food  {
+    text-align:center;
+    width:200px;
+    margin:30px;
+    background: lightgrey;
+    border-radius: 20px;
+
+}
+.ingredient-info img {
+    width:500px;
+    height: 300px;
+    
+}
+.ingredient-info{
+    margin-left: 30%;
+}
